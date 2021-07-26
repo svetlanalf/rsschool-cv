@@ -1,0 +1,35 @@
+.header {
+    text-align: center;
+    width: auto;
+}
+.section {
+    align: center;
+}
+.main {
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    font-size: large;
+}
+.footer {
+   text-align: right; 
+}
+.table {
+    text-align  : center;
+    width: 100%;
+    border: 1px solid black;
+}
+.th {
+    text-decoration: underline;
+    background-color: lightgray;
+    border: 1px solid black;
+}
+.td {
+    border: 1px solid black;
+}
+.div {
+    align-content:center;
+}
+.ul {
+    font-weight: normal;
+}
